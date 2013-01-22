@@ -1,4 +1,4 @@
 simple-async-cache
 ==================
 
-A simple asynchronous cache that can utilize multiple storage backends.
+A simple asynchronous cache for node that can utilize multiple storage backends.
